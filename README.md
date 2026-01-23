@@ -13,3 +13,11 @@ Version Control: Git & GitHub
 
 Libraries used: (Updating as I go) random, math, tkinter, requests
 
+## 📈 Progress Tracker
+
+- ✅ **Day 01 – Introduction to Python**
+  - Lectures completed
+  - Coding exercises completed
+  - Quiz completed
+  - Mini project completed
+
