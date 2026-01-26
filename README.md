@@ -15,7 +15,13 @@ Libraries used: (Updating as I go) random, math, tkinter, requests
 
 ## 📈 Progress Tracker
 
-- ✅ **Day 01 – Introduction to Python**
+- ✅ **Day 01 – Working with variables in python to manage data**
+  - Lectures completed
+  - Coding exercises completed
+  - Quiz completed
+  - Mini project completed
+
+- ✅ **Day 02 – Understanding data types and how to manipulate strings**
   - Lectures completed
   - Coding exercises completed
   - Quiz completed
