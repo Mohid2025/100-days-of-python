@@ -27,3 +27,9 @@ Libraries used: (Updating as I go) random, math, tkinter, requests
   - Quiz completed
   - Mini project completed
 
+- ✅ **Day 03 – Control flow and logical operators**
+  - Lectures completed
+  - Coding exercises completed
+  - Quiz completed
+  - Mini project completed
+
