@@ -33,3 +33,9 @@ Libraries used: (Updating as I go) random, math, tkinter, requests
   - Quiz completed
   - Mini project completed
 
+  - ✅ **Day 04 – Randomisation and python lists**
+  - Lectures completed
+  - Coding exercises completed
+  - Quiz completed
+  - Mini project completed
+
